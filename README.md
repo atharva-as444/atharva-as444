@@ -1,45 +1,22 @@
-<h1 align="center">Hi, I'm Atharva 👋</h1>
+# Hi, I'm Atharva 👋
 
-<p align="center">
-🚀 Skills
-</p>
+## 🚀 Skills
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2b%2b&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-purple?logo=figma&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-blue?logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-purple?logo=figma&logoColor=white" />
-</p>
+## 📚 I'm currently learning
+- C++ Data Structures & Algorithms – currently focusing on building a strong foundation in problem‑solving, learning how to write efficient code, and practicing different types of patterns and logic  
+- Git & GitHub basics – working with commands like `init`, `add`, `commit`, `push`, and `pull`; also learning how to manage branches, handle merges, and resolve conflicts  
+- Web Development (starting soon) – beginning with HTML, CSS, and JavaScript, and later moving into frameworks and backend concepts as I progress  
 
----
 
-<p align="center">
-📚 I'm currently learning  
-</p>
+## 📂 Projects
+- [DSA Practice](https://github.com/atharva-as444/DSA_PRACTICE)
 
-<p align="center">
-Data Structures & Algorithms (C++) <br/>
-Git & GitHub workflows
-</p>
+## 🌐 Socials
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvaas444@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-as444)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva-as444)
 
----
-
-<p align="center">
-📂 Projects  
-</p>
-
-<p align="center">
-<a href="https://github.com/atharva-as444/DSA_PRACTICE">DSA Practice</a>
-</p>
-
----
-
-<p align="center">
-📫 How to reach me  
-</p>
-
-<p align="center">
-Email: <b>atharvaas444@gmail.com</b> <br/>
-GitHub: <a href="https://github.com/atharva-as444">atharva-as444</a> <br/>
-LinkedIn: <a href="https://www.linkedin.com/in/atharva-as444">Atharva Singh</a>
-</p>
