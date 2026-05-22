@@ -1,10 +1,11 @@
 # Hi, I'm Atharva 👋
 
 ## 🚀 Skills
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2b%2b&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-purple?logo=figma&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ## 📚 I'm currently learning
 - C++ Data Structures & Algorithms – currently focusing on building a strong foundation in problem‑solving, learning how to write efficient code, and practicing different types of patterns and logic  
