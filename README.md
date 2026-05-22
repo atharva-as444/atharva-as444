@@ -1,22 +1,20 @@
-## Hi there 👋
+# Hi, I'm Atharva 👋
 
 ## 🚀 Skills
-
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2b%2b&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-purple?logo=figma&logoColor=white)
---
-**atharva-as444/atharva-as444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📚 I'm currently learning
+- Data Structures & Algorithms (C++)
+- Git & GitHub workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [DSA Practice](https://github.com/atharva-as444/DSA_PRACTICE)
+
+## 📫 How to reach me
+- Email: atharvaas444@gmail.com
+- GitHub: [atharva-as444](https://github.com/atharva-as444)
+- LinkedIn: [Atharva Singh](https://www.linkedin.com/in/atharva-as444)
+
