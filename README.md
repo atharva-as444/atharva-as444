@@ -16,7 +16,7 @@
 
 ## 📂 Projects
 - [DSA Practice](https://github.com/atharva-as444/DSA_CPP)
-- [HTML PROJECTS](https://github.com/atharva-as444/FRONT%20END%28WEB%20DEV%29/tree/main/HTML)
+- [HTML PROJECTS](HTML)
 
 
 ## 🌐 Socials
