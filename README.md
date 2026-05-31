@@ -15,7 +15,8 @@
 
 
 ## 📂 Projects
-- [DSA Practice](https://github.com/atharva-as444/DSA_PRACTICE)
+- [DSA Practice](https://github.com/atharva-as444/DSA_CPP)
+- [HTML PROJECTS](https://github.com/atharva-as444/HTML)
 
 ## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvaas444@gmail.com)
