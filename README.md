@@ -6,6 +6,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS)
 
 
 ## 📚 I'm currently learning
@@ -16,7 +17,6 @@
 
 ## 📂 Projects
 - [DSA Practice](https://github.com/atharva-as444/DSA_CPP)
-- [HTML PROJECTS](https://github.com/atharva-as444/Front-End_Dev_Practice/tree/main/HTML)
 - [HTML BASIC PROJECT](https://github.com/atharva-as444/Front-End_Dev_Practice/tree/main/HTML/ApnaClg_HTML_TUTORIAL)
 
 
