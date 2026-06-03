@@ -17,6 +17,7 @@
 ## 📂 Projects
 - [DSA Practice](https://github.com/atharva-as444/DSA_CPP)
 - [HTML PROJECTS](https://github.com/atharva-as444/Front-End_Dev_Practice/tree/main/HTML)
+- [HTML BASIC PROJECT](https://github.com/atharva-as444/Front-End_Dev_Practice/tree/main/HTML/ApnaClg_HTML_TUTORIAL)
 
 
 ## 🌐 Socials
